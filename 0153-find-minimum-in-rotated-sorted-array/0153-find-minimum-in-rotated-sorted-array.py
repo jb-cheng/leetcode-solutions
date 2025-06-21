@@ -9,10 +9,11 @@ class Solution:
                 min_val = min(min_val, nums[l])
                 break
             
-            m = (l + r) // 2
-            min_val = min(min_val, nums[m])
-            if nums[m] >= nums[l]:
-                l = m + 1
+            mid = (l + r) // 2
+            min_val = min(min_val, nums[mid])
+            if nums[mid] >= nums[l]:
+                l = mid + 1
             else:
-                r = m - 1
+                r = mid - 1
+
         return min_val

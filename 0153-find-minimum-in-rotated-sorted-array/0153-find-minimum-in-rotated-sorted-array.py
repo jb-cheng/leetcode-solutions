@@ -3,12 +3,7 @@ class Solution:
         min_val: int = nums[0]
         l, r = 0, len(nums) - 1
 
-        while l <= r:
-            # Fully sorted
-            if nums[l] < nums[r]:
-                min_val = min(min_val, nums[l])
-                break
-            
+        while l <= r:           
             mid = (l + r) // 2
             min_val = min(min_val, nums[mid])
             if nums[mid] >= nums[0]:

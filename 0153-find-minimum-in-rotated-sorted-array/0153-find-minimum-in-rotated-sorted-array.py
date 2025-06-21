@@ -11,7 +11,7 @@ class Solution:
             
             mid = (l + r) // 2
             min_val = min(min_val, nums[mid])
-            if nums[mid] >= nums[l]:
+            if nums[mid] >= nums[0]:
                 l = mid + 1
             else:
                 r = mid - 1

@@ -3,7 +3,7 @@ class Solution:
         l, r = 0, len(nums) - 1
 
         while l < r:
-            mid = l + (r - l) // 2
+            mid: int = l + (r - l) // 2
 
             # If on left sorted portion, go right
             if nums[mid] > nums[r]:

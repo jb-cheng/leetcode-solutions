@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jb-cheng/leetcode-solutions/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/jb-cheng/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [1023-time-based-key-value-store](https://github.com/jb-cheng/leetcode-solutions/tree/master/1023-time-based-key-value-store) |
 ## Binary Search
 |  |
@@ -48,9 +49,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/jb-cheng/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [1023-time-based-key-value-store](https://github.com/jb-cheng/leetcode-solutions/tree/master/1023-time-based-key-value-store) |
 ## Design
 |  |
 | ------- |
 | [1023-time-based-key-value-store](https://github.com/jb-cheng/leetcode-solutions/tree/master/1023-time-based-key-value-store) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/jb-cheng/leetcode-solutions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->

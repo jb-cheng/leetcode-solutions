@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/jb-cheng/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jb-cheng/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/jb-cheng/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/jb-cheng/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0792-binary-search](https://github.com/jb-cheng/leetcode-solutions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/jb-cheng/leetcode-solutions/tree/master/0907-koko-eating-bananas) |
 ## Hash Table
@@ -79,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/jb-cheng/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/jb-cheng/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->

@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/jb-cheng/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0792-binary-search](https://github.com/jb-cheng/leetcode-solutions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/jb-cheng/leetcode-solutions/tree/master/0907-koko-eating-bananas) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/jb-cheng/leetcode-solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Hash Table
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/jb-cheng/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/jb-cheng/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [1023-time-based-key-value-store](https://github.com/jb-cheng/leetcode-solutions/tree/master/1023-time-based-key-value-store) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/jb-cheng/leetcode-solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Design
 |  |
 | ------- |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/jb-cheng/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/jb-cheng/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/jb-cheng/leetcode-solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Matrix
 |  |
 | ------- |
